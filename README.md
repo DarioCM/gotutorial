@@ -1,5 +1,1 @@
-###GO
-
-##Golang 
-
-#Go tutorial, code examples 
+# Go tutorial, code examples 
