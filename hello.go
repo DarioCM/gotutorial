@@ -5,7 +5,7 @@ import (
 	"gotutorial/testpackage"
 )
 
-func main() {
+func HelloMain() {
 
 	// var defines variables
 	var step int = 1
