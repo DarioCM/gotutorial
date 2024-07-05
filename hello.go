@@ -15,4 +15,10 @@ func main() {
 	var right int = 10
 	fmt.Println("Sum of", left, "and", right, "is", left+right)
 
+	var name string = "Dario"
+	fmt.Println("Hello", name, "!")
+
+	var isHappy bool = true
+	fmt.Println("Are you happy?", isHappy)
+
 }
